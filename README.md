@@ -3,13 +3,13 @@
 
 2d Drone flying Game with a Lagos, Nigeria theme.
 
-# #Building with Unity and C#
+## #BuildingWithUnity and C#
 
 # Showcase
 
 <div align="left" markdown="1">
 
-<img src="https://github.com/twisstosin/DroneHustle/blob/master/screenshots/drone_photo.png" width="90%"/>
+<img src="https://github.com/twisstosin/DroneHustle/blob/master/screenshots/drone_photo.jpg" width="90%"/>
 </div>
 
 
