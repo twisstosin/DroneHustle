@@ -9,7 +9,7 @@
 
 <div align="left" markdown="1">
 
-<img src="https://github.com/twisstosin/DroneHustle/blob/master/screenshots/drone_photo.jpg" width="90%"/>
+<img src="https://github.com/twisstosin/DroneHustle/blob/master/screenshots/drone_photo.jpg" width="35%"/>
 </div>
 
 
